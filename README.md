@@ -1,6 +1,6 @@
-# Description
+# r2id
 
-MyLanguageMod change language tokens from the game / add new ones
+A mod that translates Risk of Rain 2 into Indonesian.
 
 # Installation
 R2modman is recommended. 
